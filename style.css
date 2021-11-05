@@ -1,0 +1,11 @@
+header, footer {
+    background-color: blue;
+    height: 70%;
+    width: 100%;
+    text-align: center;
+}
+
+main {
+    width: 80%;
+    margin: 50px auto;
+}
